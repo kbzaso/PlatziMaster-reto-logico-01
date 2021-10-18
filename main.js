@@ -1,7 +1,8 @@
-function clickBtn() {
+const btnEncontrar = document.getElementById('clickBtn');
+btnEncontrar.addEventListener('click', function clickBtn() {
   let paragraph = document.getElementById('textarea').value;
   findLongestWord(paragraph);
-}
+});
 
 function findLongestWord(paragraph) {
   const array = paragraph.split(' ');
