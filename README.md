@@ -4,4 +4,4 @@ Se creó una función en Javascript que recibe un párrafo de texto, esta lo div
 
 ### Diagrama de Flujo
 
-<img src="https://embed.creately.com/NEMutidFX5k?type=svg">
+<img src="https://embed.creately.com/t6JuTbZrxvG?token=9qEiRBSwAx1wDrBR&type=svg">
