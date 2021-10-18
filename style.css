@@ -56,6 +56,10 @@ input:focus,
 textarea:focus {
   outline: 3px solid #01261f;
 }
+
+textarea::placeholder {
+  color: #01261f;
+}
 h1 {
   color: #01261f;
 }
